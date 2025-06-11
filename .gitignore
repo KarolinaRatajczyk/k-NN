@@ -404,3 +404,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
